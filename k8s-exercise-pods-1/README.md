@@ -46,7 +46,7 @@ kubectl get pods
 kubectl get pods -o wide
 ```
 
-![2](image.png)
+![2](image-2.png)
 
 ## Create a pod in a mix way (declarative and imperative)
 
